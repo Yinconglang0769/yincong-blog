@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/yincong-blog/',  // GitHub Pages 子目录
+  base: '/',  // 自定义域名直接用根路径
 })
