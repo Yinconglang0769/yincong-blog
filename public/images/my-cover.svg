@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg)"/>
+  <circle cx="650" cy="80" r="60" fill="white" opacity="0.1"/>
+  <circle cx="120" cy="320" r="80" fill="white" opacity="0.08"/>
+  <text x="400" y="180" font-family="sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">我的第一篇图文博客</text>
+  <text x="400" y="230" font-family="sans-serif" font-size="20" fill="white" text-anchor="middle" opacity="0.9">—— 尹聪朗 ——</text>
+  <text x="400" y="290" font-family="sans-serif" font-size="16" fill="white" text-anchor="middle" opacity="0.7">2026.06.27</text>
+</svg>
